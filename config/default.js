@@ -95,7 +95,7 @@ module.exports = {
   // Default block explorer (blockstream|blockcypher|smartbit|insight)
   blockExplorer: 'blockstream',
   // Default exchange rate provider (coinbase|bitstamp|kraken|bitfinex)
-  rateProvider: 'coinbase',
+  rateProvider: 'bitfinex',
   // Default invoice settings
   invoices: {
     expire: 3600,
